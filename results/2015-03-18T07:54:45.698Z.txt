@@ -1,0 +1,98 @@
+[
+	{
+		"letterPattern": "AAAAA",
+		"bet": "A",
+		"winCount": 0,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "BBBBB",
+		"bet": "B",
+		"winCount": 0,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "BABBA",
+		"bet": "B",
+		"winCount": 0,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "ABAAB",
+		"bet": "B",
+		"winCount": 0,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "BABA",
+		"bet": "B",
+		"winCount": 3,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "BBBB",
+		"bet": "B",
+		"winCount": 0,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "AAAA",
+		"bet": "A",
+		"winCount": 0,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "ABAB",
+		"bet": "A",
+		"winCount": 1,
+		"lostCount": 1
+	},
+	{
+		"letterPattern": "BBAA",
+		"bet": "B",
+		"winCount": 0,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "AABB",
+		"bet": "A",
+		"winCount": 0,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "BABB",
+		"bet": "B",
+		"winCount": 0,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "ABAA",
+		"bet": "A",
+		"winCount": 0,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "ABA",
+		"bet": "B",
+		"winCount": 0,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "BBB",
+		"bet": "A",
+		"winCount": 0,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "AAA",
+		"bet": "B",
+		"winCount": 0,
+		"lostCount": 0
+	},
+	{
+		"letterPattern": "BAB",
+		"bet": "A",
+		"winCount": 1,
+		"lostCount": 0
+	}
+]
